@@ -18,6 +18,9 @@ Also, the [textbook](https://github.com/michiganrobotics/rob501/tree/main/Textbo
 ## Recitatioins
 [Recitation questions and answers](https://github.com/michiganrobotics/rob501/tree/main/Recitations) are both available.
 
+## Anki Deck
+A study deck covering the full lecture sequence is available in the [Anki Deck](https://github.com/michiganrobotics/rob501/tree/main/Anki%20Deck) folder: **216 notes** organized into **27 chapter sub-decks** (one per lecture), with LaTeX math, a styled template, and Q&A + cloze cards. Import [`ROB501_Mathematics_for_Robotics.apkg`](https://github.com/michiganrobotics/rob501/blob/main/Anki%20Deck/ROB501_Mathematics_for_Robotics.apkg) into [Anki](https://apps.ankiweb.net/). Card content lives as editable plain text in [`Anki Deck/source/`](https://github.com/michiganrobotics/rob501/tree/main/Anki%20Deck/source); run `python3 build_deck.py` to rebuild. See the [deck README](https://github.com/michiganrobotics/rob501/blob/main/Anki%20Deck/README.md) for details.
+
 ## Course Plan
 | Lecture | Topic                                                      | YouTube                                                                                      | Assignments Due    |
 |---------|------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------|
